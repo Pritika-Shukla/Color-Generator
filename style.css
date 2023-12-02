@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  justify-content: center;
+}
+.box {
+  margin: 0 auto;
+  height: 200px;
+  width: 500px;
+  border: 2px solid black;
+}
+button {
+  padding: 8px;
+  margin-bottom: 40px;
+}
+button:hover {
+  border: 2px solid green;
+}
+
